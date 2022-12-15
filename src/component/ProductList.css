@@ -1,0 +1,14 @@
+figure.small{
+  width:800px;
+  display:flex;
+  margin: 0 auto 30px;
+  justify-content: space-between;
+  align-items:center;
+  border:2px solid #666;
+}
+figure>img{
+  width:200px;
+}
+figure>figcaption{
+  width:580px;
+}
